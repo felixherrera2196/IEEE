@@ -2,6 +2,7 @@
 
 Investigación y materiales para organizar una Rama Estudiantil IEEE en la Facultad de Ingeniería y Ciencias de la Universidad Autónoma de Tamaulipas, Campus Victoria.
 
+- [Cinco sociedades técnicas IEEE: explicación de su alcance](cinco-sociedades-tecnicas-ieee.md)
 - [Guía de requisitos y pasos](guia-rama-estudiantil-ieee-uat-fic.md)
 - [Guía oficial de formación de unidades estudiantiles — IEEE Región 9 (PDF)](fuentes/EN-CREATE-A-STUDENT-ORGANIZATIONAL-UNIT.pptx-1.pdf)
 
