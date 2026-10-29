@@ -241,32 +241,19 @@ La cuota general y las afiliaciones a sociedades son conceptos distintos. El imp
 
 ---
 
-## Diapositiva 12. ¿Cuánto cuesta la membresía?
+## Diapositiva 12. ¿Cuánto cuesta la membresía IEEE?
 
-**Para iniciar la rama necesitamos membresía IEEE; las sociedades técnicas son opcionales.**
+| Perfil | Costo anual de referencia |
+| --- | ---: |
+| Estudiante de ingeniería — licenciatura | **USD 14** |
+| Estudiante de posgrado | **USD 27** |
+| Docente — membresía profesional tradicional | **USD 180** |
 
-| Membresía | Costo anual publicado en USD | Estado de la referencia |
-| --- | ---: | --- |
-| IEEE estudiante de licenciatura | 14 | Publicado por Sección México; la tabla de membresías está rotulada 2025 |
-| IEEE estudiante de posgrado | 27 | Misma referencia; confirmar tarifa actual |
-| Computer Society, adicional estudiantil | +8 | Referencia 2026 publicada por IEEE China; validar aplicación en México |
-| Communications Society, adicional estudiantil | +1 | Cuota anual adicional publicada por ComSoc |
-| IEEE profesional tradicional | 180 | Publicado como 2026 por Sección México; referencia para docentes |
-| IEEE profesional electrónica | 95 | Publicado como 2026 por Sección México; sujeto a elegibilidad |
+**Las cuotas estudiantiles provienen de una tabla marcada 2025; la profesional está publicada como 2026.** Confirmaremos el importe y la vigencia del ciclo actual en IEEE antes de pagar.
 
-**Presupuesto orientativo para 12 alumnos de licenciatura:**
+El total en pesos depende del tipo de cambio y los cargos aplicables.
 
-- Solo IEEE: **12 × USD 14 = USD 168**.
-- IEEE + ComSoc para todos: **12 × USD 15 = USD 180**.
-- IEEE + Computer Society para todos: **12 × USD 22 = USD 264**.
-
-Son escenarios calculados con referencias publicadas, no cotizaciones vigentes ni paquetes oficiales. Cada alumno puede elegir las sociedades que le interesen; no necesitamos que los 12 se afilien a una sociedad para formar la rama general.
-
-**Antes de pagar:** confirmar en el carrito IEEE el importe para México, año de membresía, fecha de vencimiento, impuestos y cargos del medio de pago. El total en pesos depende del tipo de cambio aplicado. Confirmar expresamente si la inscripción actual corresponde a 2026 o 2027; no asumir 12 meses desde el pago.
-
-El presupuesto estudiantil no incluye afiliaciones o renovaciones de docentes, materiales ni eventos. No hemos confirmado una cuota independiente por presentar la petición; debe consultarse con IEEE al cerrar el presupuesto.
-
-[Precios publicados por Sección México](https://ieee.org.mx/membresia/) · [Portada: referencias profesionales 2026](https://ieee.org.mx/) · [Computer Society: referencia de cuota 2026](https://cn.ieee.org/society-cs/) · [ComSoc: cuota adicional estudiantil](https://www.comsoc.org/membership) · [Cuotas oficiales IEEE](https://www.ieee.org/membership/join/dues.html)
+[Cuotas publicadas por Sección México](https://ieee.org.mx/membresia/) · [Referencia profesional 2026](https://ieee.org.mx/) · [Consulta oficial de cuotas](https://www.ieee.org/membership/join/dues.html)
 
 ---
 
