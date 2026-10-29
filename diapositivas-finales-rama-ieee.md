@@ -1,14 +1,14 @@
 # IEEE en nuestra facultad: proyectos, becas y oportunidades
 
 **Propuesta para formar la Rama Estudiantil IEEE de la UAT–FIC**  
-Texto final para 12 diapositivas · 3 expositores · 12–15 minutos  
+Texto final para 15 diapositivas · 3 expositores · 15–18 minutos  
 Ejemplos y fuentes consultados el 29 de octubre de 2026.
 
 | Expositor | Diapositivas | Tema |
 | --- | --- | --- |
-| Persona 1 | 1–4 | Qué es IEEE, nuestra rama y competencias |
-| Persona 2 | 5–8 | Becas, proyectos, congresos y viajes |
-| Persona 3 | 9–12 | Recursos para la facultad, beneficios personales y propuesta |
+| Persona 1 | 1–5 | Qué es IEEE, nuestra rama, competencias y becas |
+| Persona 2 | 6–10 | Proyectos, congresos, viajes y beneficios para la facultad |
+| Persona 3 | 11–15 | Membresías, costos, requisitos y próximos pasos |
 
 ---
 
@@ -241,27 +241,111 @@ La cuota general y las afiliaciones a sociedades son conceptos distintos. El imp
 
 ---
 
-## Diapositiva 12. Seamos el grupo que lo haga posible
+## Diapositiva 12. ¿Cuánto cuesta la membresía?
 
-**Les proponemos iniciar la Rama Estudiantil IEEE en nuestra facultad.**
+**Para iniciar la rama necesitamos membresía IEEE; las sociedades técnicas son opcionales.**
 
-Nuestras primeras metas:
+| Membresía | Costo anual publicado en USD | Estado de la referencia |
+| --- | ---: | --- |
+| IEEE estudiante de licenciatura | 14 | Publicado por Sección México; la tabla de membresías está rotulada 2025 |
+| IEEE estudiante de posgrado | 27 | Misma referencia; confirmar tarifa actual |
+| Computer Society, adicional estudiantil | +8 | Referencia 2026 publicada por IEEE China; validar aplicación en México |
+| Communications Society, adicional estudiantil | +1 | Cuota anual adicional publicada por ComSoc |
+| IEEE profesional tradicional | 180 | Publicado como 2026 por Sección México; referencia para docentes |
+| IEEE profesional electrónica | 95 | Publicado como 2026 por Sección México; sujeto a elegibilidad |
 
-1. Confirmar con IEEE y la FIC la ruta de formación o reactivación.
-2. Reunir estudiantes elegibles y respaldo docente; confirmar cuotas antes de inscribirnos.
-3. Elegir un primer taller y un proyecto.
-4. Preparar un calendario de competencias, becas y apoyos.
-5. Seleccionar una oportunidad y trabajar en una postulación.
+**Presupuesto orientativo para 12 alumnos de licenciatura:**
 
-**Podemos empezar con nuestras ideas y organizarnos para llevarlas más lejos.**
+- Solo IEEE: **12 × USD 14 = USD 168**.
+- IEEE + ComSoc para todos: **12 × USD 15 = USD 180**.
+- IEEE + Computer Society para todos: **12 × USD 22 = USD 264**.
+
+Son escenarios calculados con referencias publicadas, no cotizaciones vigentes ni paquetes oficiales. Cada alumno puede elegir las sociedades que le interesen; no necesitamos que los 12 se afilien a una sociedad para formar la rama general.
+
+**Antes de pagar:** confirmar en el carrito IEEE el importe para México, año de membresía, fecha de vencimiento, impuestos y cargos del medio de pago. El total en pesos depende del tipo de cambio aplicado. Confirmar expresamente si la inscripción actual corresponde a 2026 o 2027; no asumir 12 meses desde el pago.
+
+El presupuesto estudiantil no incluye afiliaciones o renovaciones de docentes, materiales ni eventos. No hemos confirmado una cuota independiente por presentar la petición; debe consultarse con IEEE al cerrar el presupuesto.
+
+[Precios publicados por Sección México](https://ieee.org.mx/membresia/) · [Portada: referencias profesionales 2026](https://ieee.org.mx/) · [Computer Society: referencia de cuota 2026](https://cn.ieee.org/society-cs/) · [ComSoc: cuota adicional estudiantil](https://www.comsoc.org/membership) · [Cuotas oficiales IEEE](https://www.ieee.org/membership/join/dues.html)
+
+---
+
+## Diapositiva 13. ¿Qué necesitamos para formar la rama?
+
+**Estudiantes + respaldo académico + petición aprobada.**
+
+| Participante | Qué necesitamos |
+| --- | --- |
+| Al menos 12 estudiantes de la institución | Membresía IEEE activa de grado Student o Graduate Student y firma electrónica de la petición |
+| Un organizador estudiantil | Miembro activo que tramite la petición y actúe como presidente provisional |
+| Un consejero docente | Membresía IEEE activa de grado Graduate Student o superior y docencia en áreas de interés IEEE |
+| Otros dos docentes avalistas | Membresía IEEE activa de grado Graduate Student o superior y docencia en áreas de interés IEEE |
+| Una autoridad académica | Aval institucional y cuenta web IEEE; no necesita membresía pagada para avalar |
+
+**Los tres organizadores pueden contar entre los 12 si cumplen los requisitos; no son 12 más tres.**
+
+Antes de abrir una petición, debemos confirmar si ya existe una rama para la UAT, Campus Victoria o FIC y si corresponde crearla, reactivarla o incorporarnos a ella.
+
+Para ser miembro estudiantil hay que cumplir la carga académica mínima de IEEE: al menos 50% de un programa normal de tiempo completo en un área elegible.
+
+**Afiliarnos es una parte del proceso: la rama existe formalmente cuando IEEE la aprueba.**
+
+[IEEE: formación de ramas](https://students.ieee.org/student-branches/form-an-ieee-student-branch/) · [Región 9: requisitos de formación](https://r9.ieee.org/sac/wp-content/uploads/sites/105/2024/06/EN-Requirements-for-the-creation-of-a-Student-Branch.-.pdf) · [Elegibilidad estudiantil](https://students.ieee.org/membership-benefits/)
+
+---
+
+## Diapositiva 14. ¿Qué debemos hacer ahora?
+
+**Tres responsables y resultados concretos para avanzar.**
+
+| Responsable | Gestión inmediata | Resultado esperado |
+| --- | --- | --- |
+| Organizador 1 | Consultar a IEEE el estado de la rama UAT/FIC, la Sección responsable y el nombre institucional correcto | Confirmación de creación, reactivación o integración |
+| Organizador 2 | Presentar la propuesta a Dirección y buscar consejero, dos docentes avalistas y autoridad académica | Respaldo institucional y personas que acepten participar |
+| Organizador 3 | Registrar interesados, revisar quién tiene membresía y confirmar cuotas y vigencias | Lista privada de miembros elegibles y presupuesto confirmado |
+
+**Con esa ruta validada:**
+
+1. Activar o renovar las membresías necesarias con la afiliación institucional correcta.
+2. Elegir al organizador provisional y preparar objetivos, actividades y presupuesto.
+3. Abrir la petición oficial de Student Branch desde IEEE MGA.
+4. Completar avales, firmas electrónicas y revisiones hasta recibir autorización.
+5. Tras la aprobación, elegir directiva y registrar cargos y consejero.
+
+Podemos consultar a **petition@ieee.org** sobre el proceso. No se han enviado mensajes ni solicitudes en nombre del grupo.
+
+**Nuestra meta inmediata: confirmar la ruta, conseguir respaldo académico y reunir a los miembros elegibles.**
+
+[Petición oficial IEEE MGA](https://mga.ieee.org/resources-operations/formations-petitions#student) · [Proceso de avales y firmas](https://sac.ieeer10.org/about-student-branch/) · [Contacto para formación de unidades](https://india.ieee.org/faqs/)
+
+---
+
+## Diapositiva 15. Seamos el grupo que lo haga posible
+
+**Les proponemos ser parte del grupo fundador de IEEE en nuestra facultad.**
+
+Hoy podemos:
+
+- Registrar quiénes quieren participar y en qué temas.
+- Identificar membresías activas y docentes que puedan apoyarnos.
+- Acordar una reunión de seguimiento con los tres organizadores.
+- Elegir un primer taller o proyecto.
+
+**Después de confirmar la ruta y los costos, podremos completar las inscripciones y avanzar con la petición.**
+
+Una vez aprobada, debemos mantener al menos **12 miembros estudiantiles**, celebrar y reportar **cuatro reuniones al año**, presentar el plan anual y actualizar los cargos.
+
+**Podemos construir proyectos, prepararnos para competir y trabajar juntos para conseguir oportunidades.**
 
 ### Súmate al grupo fundador.
+
+[IEEE: responsabilidades y continuidad de la rama](https://students.ieee.org/student-branches/officer-responsibilities-reporting/)
 
 ---
 
 ## Fuentes y alcance de los ejemplos
 
-Consulta realizada el **29 de octubre de 2026**. Los montos se expresan en dólares estadounidenses (USD).
+Consulta realizada el **29 de octubre de 2026**. Los montos se expresan en dólares estadounidenses (USD). Las cuotas de membresía se identifican por el año y alcance de su fuente; no se verificó una cotización personalizada del carrito IEEE para México en 2026/2027.
 
 Las diapositivas contienen ejemplos oficiales de programas y ediciones específicas. Una convocatoria pasada demuestra que el apoyo existe o existió, pero no confirma que haya solicitudes abiertas ni que se repitan sus condiciones. No se afirma que el grupo tenga becas, viajes, recursos o aprobación concedidos.
 
